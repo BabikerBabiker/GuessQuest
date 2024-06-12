@@ -36,25 +36,25 @@ GuessQuest is a simple betting guessing game where the player starts with a cert
 - **printGuesses()**: Prints all the guesses made by the player.
 
 ## Example
-Game started!
-Current Money: 1000
-Enter random number between 0-100: 50
-Invalid guess!
-...
-Current Money: 200
-Enter random number between 0-100: 75
-You guessed the right number!! You win!!
+Game started!  
+Current Money: 1000  
+Enter random number between 0-100: 50  
+Invalid guess!  
+  
+Current Money: 200  
+Enter random number between 0-100: 75  
+You guessed the right number!! You win!!  
 
-Would you like to view all your guesses? [Y/N]: Y
+Would you like to view all your guesses? [Y/N]: Y  
 
-Guesses: 8
-50
-30
-60
-70
-80
-55
-65
-75
-
+Guesses: 8  
+50  
+30  
+60  
+70  
+80  
+55  
+65  
+75  
+  
 Enjoy playing GuessQuest and test your luck and guessing skills!
